@@ -1,0 +1,6 @@
+print("--------- Numbers: Even Only ---------")
+even_numbers = list(range(2,11,2))
+print(even_numbers)
+print("--------- Numbers: Odd Only ---------")
+odd_numbers = list(range(1,10,2))
+print(odd_numbers)
