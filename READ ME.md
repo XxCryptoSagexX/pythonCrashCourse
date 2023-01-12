@@ -10,13 +10,8 @@ Marker: p.93 | 5-9 No Users
 Path: C:\Users\6J4308897\PycharmProjects\pythonCrashCourse
 
 ## Important Links 
-[How to push and pull from GitHub / GitBash](https://youtu.be/2vASHVT0qKc)
-[Git Repo link](https://github.com/XxCryptoSagexX/pythonCrashCourse.git)
+1. [How to push and pull from GitHub / GitBash](https://youtu.be/2vASHVT0qKc)
+2. [Git Repo link](https://github.com/XxCryptoSagexX/pythonCrashCourse.git)
 
-1.  
-
-
-
-
-
-Marker: p.93 | 5-9 No Users 
+- Marker: p.93 | 5-9 No Users
+- Path: C:\Users\6J4308897\PycharmProjects\pythonCrashCourse
