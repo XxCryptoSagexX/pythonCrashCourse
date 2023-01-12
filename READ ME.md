@@ -9,9 +9,9 @@
 Marker: p.93 | 5-9 No Users 
 Path: C:\Users\6J4308897\PycharmProjects\pythonCrashCourse
 
-## Pushing files 
+## Important Links 
 [How to push and pull from GitHub / GitBash](https://youtu.be/2vASHVT0qKc)
-https://github.com/XxCryptoSagexX/pythonCrashCourse.git 
+[Git Repo link](https://github.com/XxCryptoSagexX/pythonCrashCourse.git)
 
 1.  
 
